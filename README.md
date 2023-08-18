@@ -1,2 +1,2 @@
 # hyperblog
-This repor is for a blog to test my knowledge of git.
+This repo is about a blog to test my knowledge of git.
